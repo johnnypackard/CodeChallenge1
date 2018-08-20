@@ -1,3 +1,6 @@
-inner{
+.innerRed{
     background-color: red;
+}
+.innerYellow{
+    background-color: yellow;
 }
